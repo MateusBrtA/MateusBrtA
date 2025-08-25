@@ -44,4 +44,4 @@ Aqui estão alguns dos meus projetos favoritos:
 
 ---
 
-💬 **Vamos conversar sobre jogos ou tecnologia?** Me encontre no Linkedin ou confira meu [portfólio](#)!
+💬 **Vamos conversar sobre jogos ou tecnologia?** Me encontre no [LinkedIn](https://www.linkedin.com/in/mateus-brito-092541206/) ou confira meu [portfólio](https://mateusbrta.github.io/)!
