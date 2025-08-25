@@ -2,7 +2,7 @@
 
 🎮 **Desenvolvedor de Jogos | Apaixonado por C# e Unity**
 
-Sou um desenvolvedor de jogos brasileiro, especializado em criar experiências interativas e envolventes usando **C#** e **Unity**. Amo transformar ideias em jogos divertidos e desafiadores, desde shooters até runners e simulações. Atualmente, estou explorando muultiplayer em jogos.
+Sou um desenvolvedor de jogos brasileiro, especializado em criar experiências interativas e envolventes usando **C#** e **Unity**. Amo transformar ideias em jogos divertidos e desafiadores, desde shooters até runners e simulações. Atualmente, estou explorando multiplayer em jogos.
 
 ---
 
