@@ -35,7 +35,7 @@ Aqui estão alguns dos meus projetos favoritos:
 - 🔭 Trabalhando em um novo jogo multiplayer em Unity
 - 🌱 Aprendendo HTLM, CSS e JavaScript no momento.
 - 👯 Aberto a colaborações em projetos de jogos ou open source.
-- 📫 Me contate: https://www.linkedin.com/in/mateus-brito-092541206/
+- 📫 Me contate: https://www.linkedin.com/in/mateus-brito-aschar
 
 ---
 
